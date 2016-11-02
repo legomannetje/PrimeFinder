@@ -1,3 +1,7 @@
+//Version 1.1
+//Made by: Thijs Tops
+//Licence: Beerware, but i prefere IceTea!
+
 #include <iostream>
 using namespace std;
 
